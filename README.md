@@ -23,7 +23,7 @@ Prerequisites:
 
 Steps:
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/smart-task-manager.git
+   git clone https://github.com/ShaileshSonawane/smart-task-manager.git
    cd smart-task-manager
 
 2. No external API keys required. 
